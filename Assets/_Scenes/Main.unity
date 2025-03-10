@@ -2461,6 +2461,7 @@ MonoBehaviour:
   toUpdate: {fileID: 1611781502}
   coinTextContainer: {fileID: 182400806}
   duration: 0.4
+  animationCurve: 28
 --- !u!1001 &1299876373
 PrefabInstance:
   m_ObjectHideFlags: 0
